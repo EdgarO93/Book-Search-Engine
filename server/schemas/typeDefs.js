@@ -18,7 +18,7 @@ type User {
     _id: ID!
     username: String!
     email: String
-    bookCount: Intcl
+    bookCount: Int
     savedBooks: [Book]
   }
 input BookInput {
