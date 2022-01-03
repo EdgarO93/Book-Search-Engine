@@ -44,8 +44,9 @@ View of the Saved Books List
 
 
 
-## Contact 
-You can contact me at edort93@gmail.com
+### Questions
+
+Send questions to edort93@gmail.com or visit <a href="https://github.com/edgarO93" target= "_blank" >my profile </a><br>
 
 ## License
 This project is licensed under the terms of the MIT license.
