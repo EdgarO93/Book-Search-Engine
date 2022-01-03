@@ -34,12 +34,16 @@ Feel free to fork or clone this repo and make your own versions.
 
 ### Desktop view
 View of the Homepage
-![plot](#)
+![plot](assets/images/homedesktop.png)
+View of the Saved Books List
+![plot](assets/images/savedesk.png)
 
 
 ### Mobile View
 View of the Homepage
-![plot](#)
+![plot](assets/images/homemobile.png)
+View of the Saved Books List
+![plot](assets/images/savedmobile.png)
 
 
 
