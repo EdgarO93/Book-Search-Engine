@@ -6,7 +6,7 @@ Link to deployed site on Heroku: https://readingbooksgood.herokuapp.com/
 
 
 ## Description
-Search engine that allows users to save a list of books.
+ This project was started with a functioning Google Books API search engine built with a RESTful API, and refactored to be a GraphQL API built with Apollo Server. The app was created using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It allows users to search and save books. This was a great way to learn about a MERN stack application and learning how to deploy it to Heroku. For future version, I would like to update the homepage. 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -21,13 +21,10 @@ Search engine that allows users to save a list of books.
 After downloading this repository, go into the folder of this project. Then run npm install or i. 
 
 ### Usage
-Make sure to have MongoDB installed. Then you can use run npm run seed to load the database, then run npm watch to run nodemon or run npm start to just run the server.js if there are no updates expected to be made. You can open Insomnia Core to enter any route create in the /routes/api directory. Using GET,POST,PUT and DELETE functions of Insomnia you can view and update the database. You can also use a program such as ROBO 3T to view the MongoDB collection.
-
-You can also visit the Heroku link above to see the deployed site. Site will track transactions offline and then upload them to transaction history when online.
+Make sure to have MongoDB installed. Then you can run npm start to run the application and create a production build. You can also use a program such as ROBO 3T to view the MongoDB collection. You can also visit the Heroku link above to see the deployed site. 
 
 ### Contributing
 Feel free to fork or clone this repo and make your own versions.
-
 
 
 ## Screenshots
